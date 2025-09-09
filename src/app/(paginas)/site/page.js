@@ -12,7 +12,7 @@ export default function Site() {
     }
 
     return (<>
-        <div className="p-5 flex-1 flex flex-col justify-between items-center">
+        <div className="p-5 flex-1 flex flex-col justify-center items-center">
             <Image
                 src="/imagem-inicio.png"
                 width={400}
